@@ -31,4 +31,4 @@ description: info personali
 - valutazioni neuropsicologiche;
 - interventi di potenziamento cognitivo
 
-**contattami** attraverso i miei canali social per se vuoi avere più informazioni e fissare un **primo incontro conoscitivo**! 😄 
+**contattami** attraverso i miei canali social se vuoi avere più informazioni e fissare un **primo incontro conoscitivo**! 😄 
