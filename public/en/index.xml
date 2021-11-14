@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome</title>
+    <link>/en/</link>
+    <description>Recent content on Welcome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COMING SOON</title>
+      <link>/en/post/arabic_example/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/post/arabic_example/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>let me introduce myself</title>
+      <link>/en/about/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/en/about/</guid>
+      
+        <description>.My name is Federica Ragucci and I am a member of the Ordine degli Psicologi della Regione Toscana (n° 9125) 🎓</description>
+      
+    </item>
+    
+    <item>
+      <title>archives - under construction</title>
+      <link>/en/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>COMING SOON</title>
+      <link>/en/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/contact/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

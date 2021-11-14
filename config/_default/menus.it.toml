@@ -1,0 +1,30 @@
+  [[main]]
+  name = "HOME"
+  identifier = "main"
+  weight = 100
+  url = "/it/"
+
+  [[main]]
+  name = "CHI SONO"
+  weight = 200
+  identifier = "about"
+  url = "/chi-sono"
+  
+  [[main]]
+  name = "ARCHIVIO"
+  weight = 300
+  identifier = "posts"
+  url = "/posts"
+  
+  [[main]]
+  name = "RISORSE"
+  weight = 400
+  identifier = "material"
+  url = "/risorse"
+
+  
+  [[footer]]
+  name = "theme anatole"
+  weight = 1
+  identifier = "anatole"
+  url = "https://github.com/lxndrblz/anatole"

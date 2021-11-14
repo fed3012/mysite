@@ -1,0 +1,12 @@
+[it]
+title = "Benvenut*"
+contentDir = "content/italian" 
+weight = 1
+LanguageName = "IT"
+
+[en]
+title = "Welcome"
+weight = 2
+LanguageName = "EN"
+contentDir = "content/english"
+LanguageDirection = "rtl" 

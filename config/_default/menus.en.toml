@@ -1,0 +1,24 @@
+  [[main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/en/"
+
+  [[main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/en/post/"
+
+  [[main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/en/about/"
+
+
+  [[footer]]
+  name = "theme anatole"
+  weight = 1
+  identifier = "anatole"
+  url = "https://github.com/lxndrblz/anatole"
