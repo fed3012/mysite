@@ -26,7 +26,7 @@ description: info personali
 
 **<h3>Cosa offro?</h3>**
 
-✉ Se sei interessat* a:  
+✉ Se sei interessat* a ricevere  
 - colloqui di supporto psicologico;
 - valutazioni neuropsicologiche;
 - interventi di potenziamento cognitivo
