@@ -11,18 +11,11 @@
   url = "/post"
   
   [[main]]
-  name = "CONTATTI"
-  weight = 300
-  identifier = "contacts"
-  url = "/contatti"
-  
-  [[main]]
   name = "RISORSE"
-  weight = 400
+  weight = 300
   identifier = "material"
   url = "/risorse"
 
-  
   [[footer]]
   name = "theme anatole"
   weight = 1
