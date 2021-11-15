@@ -1,25 +1,29 @@
 ---
-author: Hugo Authors
+author: Federica Ragucci
+description: presentazione
+title: 
+description: info personali
+
 ---
 
-<!--
-This file is left intentionally empty by default to be backwards compatible with the initial theme setup.
+![profile](images/landscape.png)
 
-Although the theme has advanced a little bit and it now allows to specify the content on the main page (even if the list of posts/articles is not intended).
-This can be:
-- with the list of posts/articles (default: `mainSections = ["post"]) or
-- without the list of posts/articles (by setting `mainSections = [""]`)
+**<h3>Chi sono?</h3>**
 
-Markdown supported, ie:
+🎓 Mi chiamo **Federica Ragucci** e sono una Psicologa iscritta all'Albo della Regione Toscana (sez. A - n° 9125)
 
-```
-# Welcome
+📍 Nel corso degli anni ho attraversato quasi tutta la penisola ma attualmente risiedo a **Siena**
 
-- Hugo :rocket:
-- Hugo theme :rocket:
+:brain: Ho svolto il mio percorso di formazione accademica presso l'Università degli Studi di Padova, dove ho scoperto e iniziato a coltivare la mia passione per la **(neuro)psicologia**!
 
-Don't forget to check the README.md file!
-```
+✉ Se vuoi saperne di più, su di me, consulta il mio [Curriculum Vitae](/files/cv.pdf)!
 
-Remember that you can also specify a section header for the posts below by configuring the `mainSectionsTitle` parameter in the front matter of this file.
--->
+
+**<h3>Cosa offro?</h3>**
+
+- colloqui di supporto psicologico;
+- valutazioni neuropsicologiche;
+- interventi di potenziamento cognitivo
+
+**contattami** attraverso i miei canali social per fissare un **primo incontro conoscitivo!** 😄 
+

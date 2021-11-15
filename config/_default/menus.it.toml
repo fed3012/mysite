@@ -5,16 +5,16 @@
   url = "/it/"
 
   [[main]]
-  name = "CHI SONO"
+  name = "POST"
   weight = 200
-  identifier = "about"
-  url = "/chi-sono"
+  identifier = "posts"
+  url = "/post"
   
   [[main]]
-  name = "ARCHIVIO"
+  name = "CONTATTI"
   weight = 300
-  identifier = "posts"
-  url = "/posts"
+  identifier = "contacts"
+  url = "/contatti"
   
   [[main]]
   name = "RISORSE"
