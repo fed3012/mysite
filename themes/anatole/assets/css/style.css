@@ -605,15 +605,19 @@ aside {
   padding: 4px;
 }
 
-/*for archive*/
+
+/*FOR ARCHIVE*/
 .archive {
   width: 100%;
+  font-weight: bold;
+  font-family: Georgia;
 }
 
 .list-with-title {
-  font-size: 1.4rem;
-  margin: 30px;
-  padding: 0;
+  font-size: 1.8rem;
+  margin: 10px;
+  padding: 5;
+  line-height: 1.5em;
 }
 
 .list-with-title li {
@@ -622,10 +626,10 @@ aside {
 }
 
 .list-with-title .listing-title {
-  font-size: 2.4rem;
-  color: #666666;
+  font-size: 3rem;
+  color: #569ed8;
   font-weight: 600;
-  line-height: 2.2em;
+  line-height: 3.2em;
 }
 
 .list-with-title .listing {
@@ -637,15 +641,15 @@ aside {
 }
 
 .list-with-title .listing .listing-post .post-time {
-  float: right;
+  float: inherit;
   display: inline-block;
-  max-width: 10%;
+  max-width: 20%;
   text-align: right;
   color: #c5c5c5;
 }
 
 .list-with-title .listing .listing-post a {
-  color: #8f8f8f;
+  color: #5F585C;
   width: 90%;
   display: inline-block;
 }

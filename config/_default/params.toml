@@ -11,7 +11,7 @@ favicon = "favicons/favicon.ico"
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = ["chi-sono"]
+mainSections = [""]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
@@ -27,9 +27,10 @@ disableThemeSwitcher = true
 # Commento Comments
 # CommentoURL = "https://commento.example.com/js/commento.js"
 # Read More links for truncated summaries
-# readMore = true
-# postSectionName = "blog"
-
+#readMore = true
+#postSectionName = "blog"
+fullPostContent = true
+# contentratio = 0.7
 
 [simpleAnalytics]
 # enable = true
@@ -61,3 +62,4 @@ url = "https://www.instagram.com/federicaragucci.psy/"
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:federica_ragucci@libero.it"
+
