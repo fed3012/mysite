@@ -609,15 +609,15 @@ aside {
 /*FOR ARCHIVE*/
 .archive {
   width: 100%;
-  font-weight: bold;
-  font-family: Georgia;
+  font-family: Segoe UI light;
+   font-weight: bold;
 }
 
 .list-with-title {
-  font-size: 1.8rem;
+  font-size: 1.7rem;
   margin: 10px;
   padding: 5;
-  line-height: 1.5em;
+  line-height: 1.8em;
 }
 
 .list-with-title li {
@@ -651,11 +651,12 @@ aside {
 .list-with-title .listing .listing-post a {
   color: #5F585C;
   width: 90%;
-  display: inline-block;
+  display: inline-flex;
 }
 
 .list-with-title .listing .listing-post a:hover {
-  color: #2660ab;
+  color: #569ed8;
+   background-color: #f5f9fd;
 }
 
 /* share */
