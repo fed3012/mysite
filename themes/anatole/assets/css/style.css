@@ -36,7 +36,7 @@ html {
 
 body {
   color: var(--body-color);
-  font-family: 'Segoe UI';
+  font-family: 'PingHei', 'PingFang SC', 'Helvetica Neue', 'Work Sans', 'Hiragino Sans GB', sans-serif;
   font-size: 1.5rem;
   width: 100%;
   margin: 0 auto;
