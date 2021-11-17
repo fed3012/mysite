@@ -36,7 +36,7 @@ html {
 
 body {
   color: var(--body-color);
-  font-family: 'PingHei', 'PingFang SC', 'Helvetica Neue', 'Work Sans', 'Hiragino Sans GB', sans-serif;
+  font-family: 'Segoe UI';
   font-size: 1.5rem;
   width: 100%;
   margin: 0 auto;
@@ -189,14 +189,14 @@ header {
   position: fixed;
   right: 0;
   z-index: 3;
-  background-color: var(--bg-color);
+  background-color: #f5f9fd;
   font-weight: bold
 }
 
 header .nav__list {
   list-style: none;
   padding: 20px 30px;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
 }
 
 header .nav__list li {
@@ -659,6 +659,7 @@ aside {
    background-color: #f5f9fd;
 }
 
+
 /* share */
 .share {
   margin: 0px 30px;
@@ -1073,14 +1074,14 @@ a.btn {
   .navbar-burger span {
     background-color: var(--heading-color);
     display: block;
-    height: 1px;
+    height: 2px;
     left: calc(50% - 8px);
     position: absolute;
     transform-origin: center;
     transition-duration: 86ms;
     transition-property: background-color, opacity, transform;
     transition-timing-function: ease-out;
-    width: 16px;
+    width: 20px;
   }
 
   .navbar-burger span:nth-child(1) {
@@ -1092,7 +1093,7 @@ a.btn {
   }
 
   .navbar-burger span:nth-child(3) {
-    top: calc(50% + 4px);
+    top: calc(50% + 5px);
   }
 
   .list-with-title .listing .listing-post .post-time {

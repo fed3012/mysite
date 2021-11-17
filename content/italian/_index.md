@@ -12,12 +12,14 @@ description: info personali
 
 🎓 Mi chiamo **Federica Ragucci** e sono una Psicologa iscritta all'Albo della Regione Toscana (sez. A - n° 9125)
 
-📍 Nel corso degli anni ho attraversato quasi tutta la penisola ma attualmente risiedo a **Siena**
+📍   Nel corso degli anni ho attraversato quasi tutta la penisola ma attualmente risiedo a **Siena**
 
 :brain: Ho svolto il mio percorso di formazione accademica presso l'Università degli Studi di Padova, dove ho scoperto e iniziato a coltivare la mia passione per la **(neuro)psicologia**!
 
-✉ Se vuoi saperne di più, su di me, consulta il mio [Curriculum Vitae](/files/cv.pdf)!
+✉ Se vuoi saperne di più, su di me, consulta il mio [*Curriculum Vitae*](/files/cv.pdf)!
 
+
+**********************************************
 
 **<h3>Cosa offro?</h3>**
 
