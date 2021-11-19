@@ -4,7 +4,7 @@ aliases:
 - posts
 date: "2021-11-01"
 description: A brief guide to how to setup series part 2
-title: Beta-endorfine  benessere e relazioni sociali
+title: Beta-endorfine 🌺 benessere e relazioni sociali
 thumbnail: /italian/post/image-test_files/run.jpg
 ---
 

@@ -5,7 +5,7 @@ tags:
 - parkisondisease
 - neuropsicology
 - emotions
-title: La malattia di parkinson  non solo movimento
+title: La malattia di parkinson 🏃 non solo movimento
 thumbnail: /images/parkinson.jpg
 ---
 
