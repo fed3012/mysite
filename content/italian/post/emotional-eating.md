@@ -1,10 +1,10 @@
 ---
 author: Federica Ragucci
+title: Regolazione emotiva e food craving 🍕
 aliases:
 - posts
 date: "2021-11-19"
 description: A brief guide to how to setup series part 3
-title: Regolazione emotiva e food craving
 thumbnail: /italian/post/image-test_files/cupcake.jpg
 ---
 
@@ -15,8 +15,8 @@ La situazione di incertezza, paura e isolamento indotta dalla pandemia ha portat
 La condotta alimentare ha subìto alcuni cambiamenti su più livelli: in termini di consumo, l’annuncio del lockdown ha incentivato l’acquisto compulsivo di beni di prima necessità, permettendo ai più creativi di esprimere il proprio estro culinario all’interno delle mura di casa ma ha reso anche il cibo lo strumento d’elezione per la 𝐫𝐞𝐠𝐨𝐥𝐚𝐳𝐢𝐨𝐧𝐞 𝐝𝐢 𝐞𝐦𝐨𝐳𝐢𝐨𝐧𝐢 𝐧𝐞𝐠𝐚𝐭𝐢𝐯𝐞 scaturite dall’interruzione delle relazioni sociali e delle attività ludico-ricreative[^2].  
 In tal senso possiamo parlare di “𝐅𝐀𝐌𝐄 𝐄𝐌𝐎𝐓𝐈𝐕𝐀” (_emotional eating_ o _emotional hunger_)[^3], una condizione psicologica che scaturisce da emozioni come rabbia, paura e/o noia che può manifestarsi anche in assenza di un quadro psicopatologico legato alla condotta alimentare.
 
-![food.jpg](static/images/food.jpg)
-
+| ![food.png](/italian/post/image-test_files/food.png) | 
+|:--:| 
 
 🧠 **Cosa accade nel nostro cervello?**
 
@@ -28,6 +28,9 @@ Un'alterare del senso della fame può indurre alla ricerca di gratificazione e p
 L’attrazione verso il cibo è motivata non solo dalla fame ma anche, spesso, dall’appetito. Ciò accade soprattutto per alcune categorie di alimenti molto dolci o salati che evocano una risposta spontanea di avvicinamento associata ad uno stato psicologico di 𝐛𝐞𝐧𝐞𝐬𝐬𝐞𝐫𝐞, influenzato a sua volta dalla propria storia personale rispetto all’alimentazione.
 
 Non è il fatto in sé di esperire **emozioni complesse**, spesso **negative**, ad indurre una condotta di “sovra-alimentazione” quanto piuttosto la mancanza di 𝐬𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞 𝐞𝐟𝐟𝐢𝐜𝐚𝐜𝐢 di regolazione emotiva. Si potrebbe prendere in prestito dal DSM-5 (Manuale Diagnostico e Statistico dei disturbi mentali), dove viene applicato ai disturbi da abuso di sostanze, il termine _craving_ per indicare questa forte spinta attrattiva verso il cibo[^5]. Il craving è un costrutto complesso e non necessariamente patologico, riscontrabile nella quasi totalità della popolazione adulta, tanto che sono state validate delle scale ad hoc per indagare questo fenomeno (Cepedo-Benita et al., 2000).
+
+| ![sport.jpg](/italian/post/image-test_files/sport.png) | 
+|:--:| 
 
 🏃 **Ma io cosa posso fare?**
 

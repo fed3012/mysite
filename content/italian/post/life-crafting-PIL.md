@@ -12,7 +12,7 @@ output:
   word_document: default
   pdf_document: default
 thumbnail: images/ikigai.jpg
-title: Life Crafting e Purpose in life
+title: 🧶 Life Crafting e Purpose in life
 
 ---
 

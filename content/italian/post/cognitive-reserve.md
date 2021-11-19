@@ -1,5 +1,5 @@
 ---
-title: "Plasticità cerebrale e riserva cognitiva"
+title: "🧠 Plasticità cerebrale e riserva cognitiva"
 author: "Federica Ragucci"
 date: '2021-11-09'
 description: introduzione
@@ -26,7 +26,8 @@ E’ importante corredare il profilo cognitivo anche di un inquadramento affetti
 La valutazione della **riserva cognitiva** si avvale di tre principali indicatori: **1)** livello di scolarizzazione, **2)** tipologia/grado di mansione lavorativa e **3)** attività svolte nel tempo libero. Quantificando i segni patologici correlati a neurocompromissione con tecniche di neuroimaging (fMRI, PET, etc.) o altri strumenti diagnostici, maggiori saranno il livello di istruzione, il coinvolgimento cognitivo richiesto dall’attività lavorativa e più lo stile di vita della persona sarà complessivamente attivo, maggiori saranno le risorse a sua disposizione per far fronte al deficit, ad esempio adottando strategie compensative.  
 Se nel contesto delle demenze tali fattori di protezione possono posticipare la comparsa dei sintomi, nel caso delle sindromi post-concussive riducono la vulnerabilità rispetto a eventuali disfunzioni cognitive[^6]. Tali fattori non sono tutti necessariamente predeterminati ma alcuni possono essere modificati (ad esempio la qualità delle relazioni sociali) e modificare a loro volta l’architettura cerebrale (riserva cerebrale) [^7].
 
-![cri.jpg](/italian/post/image-test_files/cri.jpg)
+| ![cri.png](/italian/post/image-test_files/cri.png) | 
+|:--:| 
 
 [^1]:Chicherio, C., Ludwig, C., & Borella, E. (2012). La capacità di riserva–cerebrale e cognitiva–nell’invecchiamento normale (Cerebral and cognitive reserve capacity in normal aging). Giornale Italiano di Psicologia, 2, 315-342
 [^2]:Katzman R. (1993). Education and the prevalence of dementia and Alzheimer's disease. Neurology, 43(1), 13–20. https://doi.org/10.1212/wnl.43.1_part_1.13
