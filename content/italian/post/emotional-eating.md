@@ -13,7 +13,7 @@ thumbnail: /italian/post/image-test_files/cupcake.jpg
 La situazione di incertezza, paura e isolamento indotta dalla pandemia ha portato con sé anche delle complicazioni in termini di salute mentale, rappresentando un vero e proprio _trigger_ rispetto a condizioni di stress, ansia e depressione osservabili su scala globale [^1]. Una delle ricadute forse meno intuitive ma più eclatanti dovute all’interazione di questi fattori ha riguardato l’𝐚𝐥𝐢𝐦𝐞𝐧𝐭𝐚𝐳𝐢𝐨𝐧𝐞. 
 
 La condotta alimentare ha subìto alcuni cambiamenti su più livelli: in termini di consumo, l’annuncio del lockdown ha incentivato l’acquisto compulsivo di beni di prima necessità, permettendo ai più creativi di esprimere il proprio estro culinario all’interno delle mura di casa ma ha reso anche il cibo lo strumento d’elezione per la 𝐫𝐞𝐠𝐨𝐥𝐚𝐳𝐢𝐨𝐧𝐞 𝐝𝐢 𝐞𝐦𝐨𝐳𝐢𝐨𝐧𝐢 𝐧𝐞𝐠𝐚𝐭𝐢𝐯𝐞 scaturite dall’interruzione delle relazioni sociali e delle attività ludico-ricreative[^2].  
-In tal senso possiamo parlare di “𝐅𝐀𝐌𝐄 𝐄𝐌𝐎𝐓𝐈𝐕𝐀” (_emotional eating_ o _emotional hunger_)[^3], una condizione psicologica che scaturisce da emozioni come rabbia, paura e/o noia che può manifestarsi anche in assenza di un quadro psicopatologico legato alla condotta alimentare. 
+In tal senso possiamo parlare di “𝐅𝐀𝐌𝐄 𝐄𝐌𝐎𝐓𝐈𝐕𝐀” (_emotional eating_ o _emotional hunger_)[^3], una condizione psicologica che scaturisce da emozioni come rabbia, paura e/o noia che può manifestarsi anche in assenza di un quadro psicopatologico legato alla condotta alimentare.
 
 ![food.jpg](static/images/food.jpg)
 
