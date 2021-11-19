@@ -609,8 +609,7 @@ aside {
 /*FOR ARCHIVE*/
 .archive {
   width: 100%;
-  font-family: Segoe UI light;
-   font-weight: bold;
+  font-family: 'PingHei', 'PingFang SC', 'Helvetica Neue', 'Work Sans', 'Hiragino Sans GB', sans-serif;
 }
 
 .list-with-title {
