@@ -1,25 +1,25 @@
 ---
-author: Hugo Authors
+author: Federica Ragucci
+date: "2021-10-28"
+description: presentazione
+title: let me introduce myself
+description: info
+
 ---
 
-<!--
-This file is left intentionally empty by default to be backwards compatible with the initial theme setup.
+**<h3>? Who am I</h3>**
 
-Although the theme has advanced a little bit and it now allows to specify the content on the main page (even if the list of posts/articles is not intended).
-This can be:
-- with the list of posts/articles (default: `mainSections = ["post"]) or
-- without the list of posts/articles (by setting `mainSections = [""]`)
+.My name is __Federica Ragucci__ and I am a member of the Ordine degli Psicologi della Regione Toscana (n° 9125) 🎓  
+.I've criss-crossed almost all the italian penynsula over the years but I currently live in Siena, Tuscany 📍  
+.I've studied at the Università degli studi di Padova, where I've discovered my love for the (neuro)psychology :brain:  
+!If you wanto to know more about me, check out my full [*Curriculum Vitae*](/files/cv.pdf) ✉ 
 
-Markdown supported, ie:
+**********************************************
 
-```
-# Welcome
+**<h3>? What do I offer</h3>**
 
-- Hugo :rocket:
-- Hugo theme :rocket:
+- psychological support
+- neuropsychological assessment
+- cognitive training interventions
 
-Don't forget to check the README.md file!
-```
-
-Remember that you can also specify a section header for the posts below by configuring the `mainSectionsTitle` parameter in the front matter of this file.
--->
+ 😄 ! **Contact me** to set up a first meeting
