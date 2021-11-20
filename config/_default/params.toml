@@ -5,7 +5,7 @@ author = "Federica Ragucci"
 description = "<strong>Dott.ssa Federica Ragucci</strong>\nPsicologa | Esperta in Neuropsicologia"
 profilePicture = "images/logo2.jpg"
 keywords = ""
-favicon = "static/favicons/icon.ico"
+favicon = "static/favicons/favicon.ico"
 #publishDir "http://www.federicaragucci.com"
 # example ["css/custom.css"]
 customCss = []
