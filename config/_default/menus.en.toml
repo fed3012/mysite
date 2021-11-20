@@ -11,14 +11,14 @@
   url = "/en/post/"
 
   [[main]]
-  name = "About"
+  name = "Resources"
   weight = 300
-  identifier = "about"
-  url = "/en/about/"
+  identifier = "resources"
+  url = "/en/resources/"
 
 
   [[footer]]
-  name = "theme anatole"
+  name = "Anatole theme"
   weight = 1
   identifier = "anatole"
   url = "https://github.com/lxndrblz/anatole"

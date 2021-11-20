@@ -2,10 +2,10 @@
 title = "Presentation"
 author = "Federica Ragucci"
 #copyright = "2020-2021"
-description = "<strong>Dott.ssa Federica Ragucci</strong>\nPsicologa | Formazione Neuropsicologica"
+description = "<strong>Dott.ssa Federica Ragucci</strong>\nPsicologa | Esperta in Neuropsicologia"
 profilePicture = "images/logo2.jpg"
 keywords = ""
-favicon = "favicons/favicon.ico"
+favicon = "static/favicons/icon.ico"
 #publishDir "http://www.federicaragucci.com"
 # example ["css/custom.css"]
 customCss = []
