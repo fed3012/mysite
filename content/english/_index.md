@@ -19,7 +19,7 @@ description: info
 **<h3>? What do I offer</h3>**
 
 - psychological support
-- neuropsychological assessment
+- neuropsychological assessments
 - cognitive training interventions
 
  😄 ! **Contact me** to set up a first meeting

@@ -4,15 +4,10 @@
   weight = 100
   url = "/en/"
 
-  [[main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/en/post/"
 
   [[main]]
   name = "Resources"
-  weight = 300
+  weight = 200
   identifier = "resources"
   url = "/en/resources/"
 
