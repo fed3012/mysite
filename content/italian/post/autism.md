@@ -13,12 +13,14 @@ Spesso accade che gli esseri umani sfruttino l’incertezza per orientarsi verso
 E’ interessante come la 𝒗𝒂𝒓𝒊𝒂𝒃𝒊𝒍𝒆 𝒔𝒐𝒄𝒊𝒂𝒍𝒆 sia in grado di modulare le nostre scelte in situazioni d’incertezza, con dei risvolti anche in termini di pattern di 𝒂𝒕𝒕𝒊𝒗𝒂𝒛𝒊𝒐𝒏𝒆 𝒏𝒆𝒖𝒓𝒂𝒍𝒆[^2].
 
 L’area prefrontale dorso-mediale svolge un ruolo di monitoraggio rispetto alla violazione delle aspettative, attivandosi maggiormente quando l’esito di un evento è inatteso, soprattutto in contesti sociali; questa e altre strutture cerebrali sono parzialmente sovrapponibili ai network che supportano la **Teoria della Mente**[^3].
+
+
+<h4><strong>👀 Teoria della Mente e Disturbi dello Spettro Autisico: quali caratteristiche?</strong></h4>
+
 La Teoria della Mente rappresenta la capacità di comprendere intenzioni e stati emotivi altrui e sarebbe in grado di supportare la decisione in contesti di incertezza connotati socialmente.
 Deficit nelle interazioni sociali fanno parte della triade sintomatologica che caratterizza i **disturbi dello spettro autistico**, patologie del neurosviluppo la cui eziopatogenesi è in parte ancora sconosciuta. Di certo sappiamo che il modello di riferimento è epigenetico, ossia l’interazione tra fattori genetici (es. anomalie nella struttura di alcuni cromosomi) e ambientali sottende l’espressione fenotipica (ossia come il disturbo si manifesta).
 
-<h4><strong>👀 Teoria della Mente e Disturbi dello Spettro autisico: quali caratteristiche?</strong></h4>
-
- Secondo il modello attentivo, uno dei fattori che concorre al deficit della abilità sociali è l’attenzione, in particolare la capacità di 𝒓𝒊-𝒐𝒓𝒊𝒆𝒏𝒕𝒂𝒓𝒆 il focus attentivo in un punto diverso dello spazio rispetto alla posizione iniziale (disancoraggio)[^4].  
+Secondo il modello attentivo, uno dei fattori che concorre al deficit della abilità sociali è l’attenzione, in particolare la capacità di 𝒓𝒊-𝒐𝒓𝒊𝒆𝒏𝒕𝒂𝒓𝒆 il focus attentivo in un punto diverso dello spazio rispetto alla posizione iniziale (disancoraggio)[^4].  
 I **Frontal Eye Fields** (FEF, campi visivi frontali) dell’emisfero destro ricoprono un ruolo chiave nella modulazione del focus attentivo, suggerendo che una possibile ipoconnettività neurale a questo livello potrebbe sottendere una ridotta “elasticità attentiva”.
 
 | ![FEF.jpg](/italian/post/image-test_files/brainASD.png) | 
