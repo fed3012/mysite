@@ -2,6 +2,7 @@
 author: Federica Ragucci
 date: "2021-12-10"
 title: 💭 Coscienza e consapevolezza
+thumbnail: /italian/post/image-test_files/escher.jpg
 ---
 
 <h4><bold>❕ Coscienza e consapevolezza: quali differenze?</bold></h4>
