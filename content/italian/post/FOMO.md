@@ -9,18 +9,18 @@ thumbnail: /italian/post/image-test_files/smartphone.png
 
 <h4><bold>✂️ Fear Of Missing Out: la paura di essere "tagliat* fuori"</h4></bold>
 
-La **FOMO** è un processo psicologico definibile come la **preoccupazione psicologica** di essere tagliat* fuori da esperienze gratificanti vissute dagli altri. 
+La **FOMO** è un processo psicologico definibile come la <strong>preoccupazione psicologica di essere tagliat* fuori da esperienze gratificanti vissute dagli altri</strong>.  
 Le sue caratteristiche sono state identificate per la prima volta nel 2000 da Dan Herman nel contesto del marketing, formalizzate solo successivamente in un costrutto vero e proprio come lo conosciamo oggi da Patrick J. McGinnis, venture capitalist e scrittore americano.  
-Quando si parla di *FOMO* ci si riferisce a una sensazione di apprensione di perdersi informazioni, eventi, esperienze di vita che potrebbero migliorare la nostra vita; da qui la necessità di essere <oold>costantemente aggiornat*</bold> su quello che succede “là fuori”, o meglio “là dentro” lo smartphone. 
+Dalla sensazione di apprensione di perdersi informazioni, eventi, esperienze di vita che potrebbero migliorare la propria vita, scaturisce la necessità di essere <strong>costantemente aggiornat*</strong> su quello che succede “là fuori”, o meglio “là dentro” lo smartphone. 
 
-La diffusione del fenomeno sarebbe stata infatti amplificata dalla diffusione massiva dei social media (es. Instagram) dove le vite delle persone sono diventate sempre più esposte e documentate pubblicamente; le esperienze di vita raccontate, tuttavia, sono spesso sottoposte al filtro di chi pubblica, nell’interesse di far trasparire eventi positivi al netto dei negativi. 
+La diffusione del fenomeno sarebbe stata infatti amplificata dall'utilizzo massivo dei social network (es. Instagram) dove le vite delle persone sono diventate sempre più esposte e documentate pubblicamente; le esperienze di vita raccontate, tuttavia, sono spesso sottoposte al filtro di chi pubblica, nell’interesse di far trasparire eventi positivi al netto dei negativi. 
 
 | ![fear.jpg](/italian/post/image-test_files/fearjoy.png) | 
 |:--:| 
 
 <h4><bold>📲 FOMO, FOBO e FODA: quali sono le differenze?</h4></bold>
 
-Dal punto di vista teorico la FOMO si scompone di due dimensioni: 1) percezione soggettiva di perdersi qualcosa e 2) condotte compulsive finalizzate al mantenimento delle connessioni sociali[^1] [^2].
+Dal punto di vista teorico la FOMO si compone di due dimensioni: **1)** percezione soggettiva di perdersi qualcosa e **2)** condotte compulsive finalizzate al mantenimento delle connessioni sociali[^1] [^2].
 Concetti associati a quello di FOMO sono la FOBO e la FODA, entrambi formalizzati dallo stesso McGinnis. 
 La *Fear Of a Better Option* è il timore che esista sempre un’opzione migliore di quella corrente, con evidenti ripercussioni sul processo di presa di decisione dovute all’indecisione; dalla presenza congiunta della FOMO e della FOBO deriverebbe la *Fear of Doing Anything*, una condizione di paura che si configura come una vera e propria paralisi d’azione.
 
