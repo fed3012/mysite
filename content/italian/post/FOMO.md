@@ -9,9 +9,10 @@ thumbnail: /italian/post/image-test_files/smartphone.png
 
 <h4><bold>✂️ Fear Of Missing Out: la paura di essere "tagliat* fuori"</h4></bold>
 
-La FOTO un processo psicologico definibile come la **preoccupazione psicologica** di essere tagliato fuori da esperienze gratificanti vissute dagli altri. 
-Le caratteristiche della FOMO sono state  identificate per la prima volta nel 2000 da Dan Herman nel contesto del marketing, formalizzate solo successivamente in un costrutto vero e proprio come noi lo conosciamo oggi da Patrick J. McGinnis, venture capitalist e scrittore americano.  
-Quando si parla di *"FOMO"* ci si riferisce a una sensazione di apprensione di perdersi informazioni, eventi, esperienze di vita che potrebbero migliorare la nostra vita; da qui la necessità di essere <oold>costantemente aggiornat*</bold> su quello che succede “là fuori”, o meglio “là dentro” lo smartphone. 
+La **FOMO** è un processo psicologico definibile come la **preoccupazione psicologica** di essere tagliat* fuori da esperienze gratificanti vissute dagli altri. 
+Le sue caratteristiche sono state identificate per la prima volta nel 2000 da Dan Herman nel contesto del marketing, formalizzate solo successivamente in un costrutto vero e proprio come lo conosciamo oggi da Patrick J. McGinnis, venture capitalist e scrittore americano.  
+Quando si parla di *FOMO* ci si riferisce a una sensazione di apprensione di perdersi informazioni, eventi, esperienze di vita che potrebbero migliorare la nostra vita; da qui la necessità di essere <oold>costantemente aggiornat*</bold> su quello che succede “là fuori”, o meglio “là dentro” lo smartphone. 
+
 La diffusione del fenomeno sarebbe stata infatti amplificata dalla diffusione massiva dei social media (es. Instagram) dove le vite delle persone sono diventate sempre più esposte e documentate pubblicamente; le esperienze di vita raccontate, tuttavia, sono spesso sottoposte al filtro di chi pubblica, nell’interesse di far trasparire eventi positivi al netto dei negativi. 
 
 | ![fear.jpg](/italian/post/image-test_files/fearjoy.png) | 
