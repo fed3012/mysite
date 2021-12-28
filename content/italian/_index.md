@@ -10,7 +10,7 @@ description: info personali
 
 **<h3>Chi sono?</h3>**
 
-🎓 Mi chiamo **Federica Ragucci** e sono una Psicologa iscritta all'Albo della Regione Toscana (sez. A - n° 9125) specializzanda in psicoterapia cognitivo-comportamentale
+🎓 Mi chiamo **Federica Ragucci** e sono una Psicologa iscritta all'Albo della Regione Toscana (sez. A - n° 9125) specializzanda in Psicoterapia cognitivo-comportamentale
 
 📍   Nel corso degli anni ho attraversato quasi tutta la penisola ma attualmente risiedo a **Siena**
 
