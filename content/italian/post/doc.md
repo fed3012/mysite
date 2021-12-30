@@ -11,7 +11,7 @@ thumbnail: /italian/post/image-test_files/doc1.jpg
 
 Il **Disturbo Ossessivo Compulsivo (DOC)** interessa circa l’1-2% della popolazione adulta, soprattutto di sesso femminile. La maggior parte delle persone ne sviluppa i sintomi già durante l’infanzia ma non sono infrequenti esordi tardivi intorno ai 30 anni di età.
 
- E’ caratterizzato da _pensieri, immagini, bisogni ricorrenti e intrusivi e/o esperienze sensoriali e percettive fonte di distress_ **(ossessioni)** da cui scaturiscono comportamenti ripetitivi **(compulsioni)** volte alla loro regolazione.  
+ E’ caratterizzato da _pensieri, immagini, bisogni ricorrenti e intrusivi e/o esperienze sensoriali e percettive fonte di distress_ **(ossessioni)** da cui scaturiscono comportamenti ripetitivi **(compulsioni)** volti alla loro regolazione.  
 Il quadro sintomatologico presenta una discreta variabilità interindividuale, sia in termini di frequenza che di contenuto (necessità di controllo, pulizia, ordine/simmetria, etc.); affinché si possa parlare di psicopatologia, questi pensieri e comportamenti devono incidere significativamente sulla qualità di vita della persona.
 
 | ![doc.jpg](/italian/post/image-test_files/doc.jpg) | 
