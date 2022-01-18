@@ -6,6 +6,8 @@ type: section
 
 <bold><h4>Notizie e Comunicati</h4></bold>
 
+> <bold><h3>Sostieni il #bonuspsicologo su</cite></bold> [change.org](https://www.change.org/p/bonus-salute-mentale-palazzo-chigi-bonuspsicologo?signed=true)</h3>
+
 > <bold><h3> XIV edizione del Festival della Salute - Siena, 11-14 novembre 2021</cite></h3></bold>
 [Scienza, ricerca e innovazione: la salute futura](https://festivaldellasalute.it/)
 
