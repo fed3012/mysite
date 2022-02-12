@@ -1,5 +1,5 @@
 ---
-title: "I gemelli diversi della salute mentale 👬"
+title: " 👬 I gemelli diversi della salute mentale"
 author: "Federica Ragucci"
 date: '2021-10-31'
 description: introduzione

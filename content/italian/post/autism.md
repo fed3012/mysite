@@ -20,11 +20,12 @@ L’area prefrontale dorso-mediale svolge un ruolo di monitoraggio rispetto alla
 La Teoria della Mente rappresenta la capacità di comprendere intenzioni e stati emotivi altrui e sarebbe in grado di supportare la decisione in contesti di incertezza connotati socialmente.
 Deficit nelle interazioni sociali fanno parte della triade sintomatologica che caratterizza i **disturbi dello spettro autistico**, patologie del neurosviluppo la cui eziopatogenesi è in parte ancora sconosciuta. Di certo sappiamo che il modello di riferimento è epigenetico, ossia l’interazione tra fattori genetici (es. anomalie nella struttura di alcuni cromosomi) e ambientali sottende l’espressione fenotipica (ossia come il disturbo si manifesta).
 
+| ![FEF.jpg](/italian/post/image-test_files/brainASD.png) | 
+|:--:| 
+
 Secondo il modello attentivo, uno dei fattori che concorre al deficit della abilità sociali è l’attenzione, in particolare la capacità di 𝒓𝒊-𝒐𝒓𝒊𝒆𝒏𝒕𝒂𝒓𝒆 il focus attentivo in un punto diverso dello spazio rispetto alla posizione iniziale (disancoraggio)[^4].  
 I **Frontal Eye Fields** (FEF, campi visivi frontali) dell’emisfero destro ricoprono un ruolo chiave nella modulazione del focus attentivo, suggerendo che una possibile ipoconnettività neurale a questo livello potrebbe sottendere una ridotta “elasticità attentiva”.
 
-| ![FEF.jpg](/italian/post/image-test_files/brainASD.png) | 
-|:--:| 
 
 [^1]:Tomov, M. S., Truong, V. Q., Hundia, R. A., & Gershman, S. J. (2020). Dissociable neural correlates of uncertainty underlie different exploration strategies. Nature communications, 11(1), 2371. https://doi.org/10.1038/s41467-020-15766-z
 

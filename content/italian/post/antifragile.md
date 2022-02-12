@@ -14,7 +14,7 @@ thumbnail: /italian/post/image-test_files/kintsugi.png
 <h4><bold>🧩 Il costrutto dell' antifragilità</bold></h3>
 
 Nel suo libro *“Antifragile: Prosperare nel disordine”* (2012) Nassim Nicholas Taleb, matematico esperto in teoria della probabilità, approfondisce il tema della gestione del cambiamento e di risposta a situazioni di stress. Taleb apre una riflessione sul contrario di “fragile” soffermandosi sul concetto di “resilienza”, laddove un sistema resiliente viene descritto come capace di resistere alle sfide della vita mantenendosi sostanzialmente immodificato. Al contrario, per «**antifragilità**» Taleb intende la capacità di un sistema (inteso come persone, organizzazioni, etc.) di trarre vantaggio dalla volatilità, complessità ed incertezza degli eventi, identificabili nei cosiddetti **cigni neri**, superando se stessi e i propri limiti.  
-Antifragile è chi risponde agli stressors traendone beneficio in termini di *crescita e spinta motivazionale*[^2]. 
+Antifragile è chi risponde agli stressors traendone beneficio in termini di *crescita e spinta motivazionale*[^2].   
 La resilienza è una forma di adattamento, l’antifragilità non lo è necessariamente poiché non è un processo finito ma in continuo rinnovamento.
 
 | ![broken.jpg](/italian/post/image-test_files/slide.png) | 
