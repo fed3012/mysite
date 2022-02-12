@@ -18,7 +18,7 @@ Il flow è supportato da obiettivi chiari, feedback immediati e dal giusto equil
 |:--:|
 
 
-<h4><bold>🧘 Incentivi per un esperienza immersiva</h4></bold>
+<h4><bold>🧘 Incentivi per un'esperienza immersiva</h4></bold>
 
 Affinché scaturisca un’esperienza di flusso, è richiesto che:
 
