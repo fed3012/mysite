@@ -21,11 +21,3 @@ description: info personali
 
 **********************************************
 
-**<h3>Cosa offro?</h3>**
-
-- colloqui di supporto psicologico;
-- valutazioni neuropsicologiche;
-- interventi di potenziamento cognitivo
-
-**contattami** attraverso i miei canali social per fissare un **primo incontro conoscitivo!** 😄 
-
