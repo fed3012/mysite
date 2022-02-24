@@ -8,9 +8,9 @@ thumbnail: /italian/post/image-test_files/help.png
 
 <h4><strong> 🩺 Quale approccio diagnostico in psicologia? </strong></h4>
 
-In psicologia è possibile distinguere tra *due approcci diagnostici*: categoriale vs dimensionale. Il tradizionale approccio 𝐜𝐚𝐭𝐞𝐠𝐨𝐫𝐢𝐚𝐥𝐞 si basa su un criterio dicotomico, ossia sulla definizione della presenza o assenza di un certo comportamento atipico/anomalo asseribile ad un “disturbo” ed è stato utilizzato nel contesto delle psicopatologie fino al 2013 con la pubblicazione del DSM-5, manuale diagnostico e statistico dei disturbi mentali alla sua quinta edizione.
+In psicologia è possibile distinguere tra *due approcci diagnostici*: categoriale vs dimensionale. Il tradizionale approccio 𝐜𝐚𝐭𝐞𝐠𝐨𝐫𝐢𝐚𝐥𝐞 si basa su un criterio dicotomico, ossia sulla definizione della presenza o assenza di un certo comportamento atipico/anomalo asseribile a un “disturbo” ed è stato utilizzato nel contesto delle psicopatologie fino al 2013 con la pubblicazione del DSM-5, manuale diagnostico e statistico dei disturbi mentali alla sua quinta edizione.
 
-Il DSM-5 ha segnato il passaggio da un approccio categoriale (DSM-III e DSM-IV) ad uno di tipo 𝐝𝐢𝐦𝐞𝐧𝐬𝐢𝐨𝐧𝐚𝐥𝐞 del funzionamento psicologico, privilegiando l’idea che un certo quadro psicologico/psicopatologico si sviluppi lungo un continuum; ciò significa che i sintomi possono essere presenti con un grado di intensità e frequenza variabile delineando quadri di maggiore o minore gravità.
+Il DSM-5 ha segnato il passaggio da un approccio categoriale (DSM-III e DSM-IV) a uno di tipo 𝐝𝐢𝐦𝐞𝐧𝐬𝐢𝐨𝐧𝐚𝐥𝐞 rispetto al funzionamento psicologico, privilegiando l’idea che un certo quadro psicologico/psicopatologico si sviluppi lungo un continuum; ciò significa che i sintomi possono essere presenti con un grado di intensità e frequenza variabile delineando quadri di maggiore o minore gravità.
 
 | ![diagnosis](/italian/post/image-test_files/diagnosis.png) | 
 |:--:|
