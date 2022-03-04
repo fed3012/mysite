@@ -8,7 +8,7 @@ thumbnail: /italian/post/image-test_files/escher.jpg
 <h4><bold>❕ Coscienza e consapevolezza: quali differenze?</bold></h4>
 
 *Coscienza* (consciousness) e *consapevolezza* (self-awareness) sono due termini spesso utilizzati come sinonimi ma afferenti, in realtà, a due concetti distinti.
-Dal punto di vista delle neuroscienze la “coscienza” si contrappone al coma o al sonno (asleep), ad indicare una condizione di mancanza di uno stato di veglia necessario per elaborare le informazioni provenienti dall’ambiente circostante.
+Dal punto di vista delle neuroscienze, la “coscienza” si contrappone al coma o al sonno (asleep), a indicare una condizione di mancanza di uno stato di veglia necessario per elaborare le informazioni provenienti dall’ambiente circostante.
 Lo stato di coscienza non implica necessariamente la presenza di consapevolezza[^1]: anche se la persona è nelle condizioni di esperire sensazioni, percezioni e pensieri, non è detto che ne sia effettivamente consapevole (aware).
 
 <h4><bold>💭 Consapevolezza come porta per la metacognizione</bold></h4> 
