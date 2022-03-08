@@ -18,7 +18,7 @@ description: info personali
 
 📌 Ogni tanto mi piace **scrivere** e **condividere** argomenti di psicologia traendo spunto dagli studi di letteratura più recenti; sfogliali nella sezione **POST** qui in alto!
 
-✉ Per saperne di più su di me, consulta il mio [*Curriculum Vitae*](/files/cv.pdf)!
+✉ E per saperne di più su di me, consulta il mio [*Curriculum Vitae*](/files/cv.pdf)!
 
 
 **********************************************
