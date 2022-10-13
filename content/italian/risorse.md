@@ -6,7 +6,10 @@ type: section
 
 <bold><h4>Notizie e Comunicati</h4></bold>
 
-> <bold><h3>Sostieni il #bonuspsicologo su</cite></bold> [change.org](https://www.change.org/p/bonus-salute-mentale-palazzo-chigi-bonuspsicologo?signed=true)</h3>
+
+
+> <bold><h3>10 ottobre 2022: Giornata Mondiale della Salute Mentale</bold></h3>  In occasione della Giornata Mondiale della Salute Mentale, la **UOSA Psicologia del Policlinico "Le Scotte"** organizza un webinar gratuito aperto alla popolazione su alcuni temi attuali a tema sessualità affrontandoli da una prospettiva psicologica.  
+Per consultare il programma vai su [AOUS - Eventi e Convegni](https://www.ao-siena.toscana.it/ufficio-stampa/eventi-e-convegni/)
 
 > <bold><h3> XIV edizione del Festival della Salute - Siena, 11-14 novembre 2021</cite></h3></bold>
 [Scienza, ricerca e innovazione: la salute futura](https://festivaldellasalute.it/)
