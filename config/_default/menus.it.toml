@@ -15,6 +15,12 @@
   weight = 300
   identifier = "risorse"
   url = "/risorse"
+
+  [[main]]
+  name = "CONTATTI"
+  weight = 300
+  identifier = "contacts"
+  url = "/contatti"
    
   [[footer]]
   name = "Anatole theme"
