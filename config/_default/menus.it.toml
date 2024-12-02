@@ -17,7 +17,7 @@
   url = "/risorse"
 
   [[main]]
-  name = "CONTATTI"
+  name = "PRENOTA"
   weight = 300
   identifier = "contacts"
   url = "/contatti"
