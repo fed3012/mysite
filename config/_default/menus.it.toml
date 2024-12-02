@@ -18,7 +18,7 @@
 
   [[main]]
   name = "PRENOTA"
-  weight = 300
+  weight = 400
   identifier = "contacts"
   url = "/contatti"
    
