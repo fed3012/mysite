@@ -19,8 +19,8 @@
   [[main]]
   name = "PRENOTA"
   weight = 400
-  identifier = "contacts"
-  url = "/contatti"
+  identifier = "prenota"
+  url = "/booking"
    
   [[footer]]
   name = "Anatole theme"
