@@ -2,7 +2,7 @@
 title = "Presentation"
 author = "Federica Ragucci"
 #copyright = "2020-2021"
-description = "<strong>Dott.ssa Federica Ragucci</strong>\n<strong>Psicologa</strong>\nAlbo Regione Toscana n°9125\nPsicoterapeuta Cognitivo-Comportamentale"
+description = "<strong>Dott.ssa Federica Ragucci</strong>\n<strong>Psicologa</strong>\nAlbo Regione Toscana n°9125\n"
 profilePicture = "images/logo2.jpg"
 keywords = ""
 favicon = "static/favicons/favicon.ico"
