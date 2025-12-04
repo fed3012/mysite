@@ -10,7 +10,7 @@ description: info personali
 
 **<h3>Chi sono?</h3>**
 
-🎓 Mi chiamo **Federica Ragucci** e sono una Psicologa Specializzanda in Psicoterapia cognitivo-comportamentale
+🎓 Mi chiamo **Federica Ragucci** e sono una Psicologa e Psicoterapeuta cognitivo-comportamentale
 
 📍   Nel corso degli anni ho attraversato quasi tutta la penisola e attualmente mi divido tra l'**Emilia-Romagna** e la **Toscana**.
 
